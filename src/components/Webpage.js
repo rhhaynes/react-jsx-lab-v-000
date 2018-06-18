@@ -1,7 +1,11 @@
-import RegistrationForm from './RegistrationForm.js';
-import ReactDOM from 'react-dom';
+import React from 'react';
+import FillerText from './FillerText.js';
 
-ReactDOM.render(
-  <RegistrationForm />,
-  document.getElementById('root')
-);
+class Webpage extends React.Component {
+  render() {
+    return (
+      <div>
+      </div>
+    )
+  }
+}
