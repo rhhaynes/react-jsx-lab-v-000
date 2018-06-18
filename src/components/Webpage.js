@@ -6,8 +6,8 @@ class Webpage extends React.Component {
     return (
       <div>
         <title>The world's coolest webpage</title>
-        <FillerText>
-        <FillerText>
+        FillerText
+        FillerText
       </div>
     )
   }
